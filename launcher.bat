@@ -1,0 +1,1 @@
+cscript C:\VBKey\vbkey.vbs
