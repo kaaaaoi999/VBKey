@@ -2,7 +2,7 @@
 
 1. VBKey is a super-lightweight automizer, it only requires 5KB of disk space rather than Pykey that required megabytes.
 2. VBKey is faster, it doesn't use Run to open directories and files, instead it uses an execution system.
-3. VBKey (Pykey 2) is compatible with more operating systems from Windows 98 to Windows 11, not having to make python work made the task easier.
+3. VBKey (Pykey 2) is compatible with older operating systems from Windows 98 to Windows 11, not having to make python work made the task easier.
 
 exceptions: It can't handle any other file than *.EXE* and folders in explorer.
 
